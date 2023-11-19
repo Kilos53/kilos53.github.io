@@ -1,2 +1,1 @@
-# kilos53.github.io
-Deploy Page
+Deploy page
