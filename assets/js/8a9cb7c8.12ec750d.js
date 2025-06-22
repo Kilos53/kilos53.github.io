@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkilos_53_archive=self.webpackChunkkilos_53_archive||[]).push([[286],{7735:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/gra","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

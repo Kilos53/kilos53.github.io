@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkilos_53_archive=self.webpackChunkkilos_53_archive||[]).push([[513],{8931:a=>{a.exports=JSON.parse('{"label":"gra","permalink":"/blog/tags/gra","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

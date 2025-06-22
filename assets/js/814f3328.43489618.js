@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkilos_53_archive=self.webpackChunkkilos_53_archive||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Ankieta Luty","permalink":"/blog/welcome","unlisted":false},{"title":"First Blog Post","permalink":"/blog/first-blog-post","unlisted":false}]}')}}]);

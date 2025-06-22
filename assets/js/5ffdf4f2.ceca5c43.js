@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkilos_53_archive=self.webpackChunkkilos_53_archive||[]).push([[62],{5959:a=>{a.exports=JSON.parse('{"label":"ankieta","permalink":"/blog/tags/ankieta","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
